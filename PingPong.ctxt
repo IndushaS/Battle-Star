@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PingPong()
+comment1.params=
+comment1.target=void\ run()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=e
+comment3.target=void\ processKeyEvent(java.awt.event.KeyEvent)
+comment4.params=
+comment4.target=void\ doSomething()
+comment5.params=
+comment5.target=boolean\ isFocusable()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
